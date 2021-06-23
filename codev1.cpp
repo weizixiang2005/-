@@ -7,9 +7,9 @@ int main()
     //charset:GBK
     //version:v1.0
     //made by Wei Zixiang
-    double numberA = 1;
-    double numberB = 1;
-    double result = 1;
+    double numberA = 0;
+    double numberB = 0;
+    double result = 0;
     cout << "===========================\n|    勾  股  计  算  器   |\n===========================" <<endl;
     cout <<"请输入直角边A的值：" ;
     cin >> numberA ;
